@@ -4,7 +4,7 @@
 
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=date_night">
+<img align='bottom-right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=date_night">
 
 
 ### Olá, meu nome é Maria Eduarda!
