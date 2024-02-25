@@ -12,5 +12,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/SouzaDuda/count.svg)
 
-<img align='right' src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDuda)](https://github.com/SouzaDuda/github-readme-stats)
-">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDuda&layout=compact)
