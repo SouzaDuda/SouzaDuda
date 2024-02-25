@@ -2,8 +2,8 @@
 **SouzaDuda/SouzaDuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDuda&layout=compact&theme=date_night">
-<img align='bottom-right' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDuda&layout=compact&theme=rose_pine">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
 
 <!--### Olá, meu nome é Maria Eduarda!
 
