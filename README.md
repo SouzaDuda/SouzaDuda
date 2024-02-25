@@ -8,4 +8,4 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DUDA&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>Estudo na ETEC Basilides de Godoy<br/> Essa conta em grande maioria é acadêmica e alguns projetos pessoais!</p>
+<p>Estudo na ETEC Basilides de Godoy<br/> Essa conta em grande maioria é acadêmica e alguns projetos pessoais!<br> Créditos para Iuri Silva (iuricode) pelo template!</p>
