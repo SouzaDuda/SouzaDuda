@@ -11,3 +11,5 @@
 <p>Estudante de Programação, 15 anos<br/> Essa conta em grande maioria é acadêmica e alguns projetos pessoais!<br> Créditos para Iuri Silva (iuricode) pelo template!</p>
 
 ![Visitor Count](https://profile-counter.glitch.me/SouzaDuda/count.svg)
+
+<img align='right' src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiasEllen26&layout=compact)">
