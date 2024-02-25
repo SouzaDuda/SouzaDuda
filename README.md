@@ -9,3 +9,5 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=DUDA&color=d0cfaa&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Estudante de Programação, 15 anos<br/> Essa conta em grande maioria é acadêmica e alguns projetos pessoais!<br> Créditos para Iuri Silva (iuricode) pelo template!</p>
+
+![Visitor Count](https://profile-counter.glitch.me/SouzaDuda/count.svg)
