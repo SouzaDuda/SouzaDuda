@@ -11,7 +11,5 @@
 
 <p>Estudante de Programação, 15 anos<br/> Essa conta em grande maioria é acadêmica e alguns projetos pessoais!<br> Créditos para Iuri Silva (iuricode) pelo template!</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
-
 
 ![Visitor Count](https://profile-counter.glitch.me/SouzaDuda/count.svg)
