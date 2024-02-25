@@ -3,6 +3,7 @@
 -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouzaDuda&layout=compact&theme=date_night">
+<img align='bottom-right' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
 
 ### Olá, meu nome é Maria Eduarda!
 
