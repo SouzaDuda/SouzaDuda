@@ -2,8 +2,6 @@
 **SouzaDuda/SouzaDuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&show_icons=true&title_color=F9957F&text_color=F9957F&icon_color=F9957F&bg_color=d0cfaa&cache_seconds=2300" alt="ilustração do status do github">
-
 ### Olá, meu nome é Maria Eduarda!
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=DUDA&color=d0cfaa&style=for-the-badge&logo=GitHub" alt="Static GitHub">
@@ -13,3 +11,4 @@
 ![Visitor Count](https://profile-counter.glitch.me/SouzaDuda/count.svg)
 
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=date_night">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=date_night&show_icons=true">
