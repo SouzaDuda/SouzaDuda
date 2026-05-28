@@ -1,24 +1,10 @@
 <!--
 **SouzaDuda/SouzaDuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<!--
-<a href="https://github.com/SouzaDuda/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SouzaDuda&theme=dark" />
-</a>
-<a href="https://github.com/SouzaDuda/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SouzaDuda&layout=compact&theme=dark&langs_count=8&card_width=320" />
-</a>
-
-### Contagem de visitantes
-<img align='center' src="https://profile-counter.glitch.me/SouzaDuda/count.svg" alt="contagem de visitantes"> -->
-
-
-
-
 <table>
   <th width="40%">
-    <img width="300" height="600" alt="LavenderField_MC" src="https://github.com/user-attachments/assets/0319ef40-4847-4fef-ae7b-38f8c465f139" />
+    <!--<img width="300" height="600" alt="LavenderField_MC" src="https://github.com/user-attachments/assets/0319ef40-4847-4fef-ae7b-38f8c465f139" />-->
+    <img width="1080" height="2160" alt="SakuraSunset_MC" src="https://github.com/user-attachments/assets/fba392de-79a5-4411-98a2-0d24ca62505f" />
   </th>
   <th width="60%"> <!-- o conteúdo abaixo veio do site: DEMOLAB.COM-->
     <h3 align="center">⊹ ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</h3>
